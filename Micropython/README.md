@@ -4,7 +4,7 @@
 
 Connecter la carte en USB, puis dans Thonny :
 
-<img width="272" height="286" alt="Thonny 1" src="https://github.com/user-attachments/assets/7be58c55-3a64-45d4-b0b2-d068d1f69194" />
+<img width="408" height="329" alt="Thonny 1" src="https://github.com/user-attachments/assets/7be58c55-3a64-45d4-b0b2-d068d1f69194" />
 
 
 Sélectionner ESP32, puis install :
