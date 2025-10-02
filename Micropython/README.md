@@ -28,4 +28,8 @@ Charger les scripts de ce répertoire sur la carte.
 
 # Commande ESPnow
 
-Pour tester l'ESPnow, on utilise la télécommande du Robot Service Jeunesse 2025. Commencer par déterminer l'adresse mac du drone avec le script _display_mac.py_, puis copier cette adresse dans le script _telecommande_drone.py_.
+Pour tester l'ESPnow, on utilise la télécommande du Robot Service Jeunesse 2025. 
+
+Commencer par déterminer l'adresse mac du drone avec le script _display_mac.py_, puis copier cette adresse dans le script _telecommande_drone.py_ (ligne 8). Ensuite, charger le script sur l'ESP32C3 de la télécommande et le lancer. Il envoie alors en continu (10 fois par secondes) les données du joystick au drone
+
+Brancher la batterie du drone et lancer le script _test_espnow_receiver.py_ . Les quatre positions hat-gauche, haut-droit, bas-gauche et bas-droit du joystick font tourner les hélices correspondantes.
