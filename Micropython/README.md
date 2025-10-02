@@ -22,4 +22,6 @@ Charger les scripts de ce répertoire sur la carte.
 
 # Les scripts
 
--
+- _test_ADC_bat.py_ : affiche en continu (toutes les secondes), le voltage de la batterie (penser à connecter la batterie, CTRL-c pour interrompre))
+- _test_motors.py_  : fait tourner les moteurs les uns à la suite des autres pendant un seconde (vérifier le sens de rotation des 4 hélices)
+- _test_MPU6050.py_ : initialise l'IMU et affiche en continu (3 fois par seconde) le pitch (tangage) et le roll (roulis) en degrés (CTRL-c pour interrompre)
