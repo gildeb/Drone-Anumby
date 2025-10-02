@@ -4,7 +4,7 @@
 
 Connecter la carte en USB _en maintenant enfoncé l'interrupteur BOOT_ (celui qui est du côté de la LED blanche), puis dans Thonny :
 
-<img width="301" height="327" alt="Thonny 1" src="https://github.com/user-attachments/assets/04f9d17b-6c33-43f6-8f18-0869f58750e4" />
+<img width="400" height="400" alt="Thonny 1" src="https://github.com/user-attachments/assets/04f9d17b-6c33-43f6-8f18-0869f58750e4" />
 
 Sélectionner ESP32, puis install :
 
