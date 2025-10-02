@@ -1,6 +1,6 @@
 ## Developpement micropython pour le contrôleur de vol esp-drone
 
-# Pour flasher micropython sur l'ESP32S3 de la carte
+# Pour flasher micropython sur l'ESP32S2 de la carte
 
 Connecter la carte en USB _en maintenant enfoncé l'interrupteur BOOT_ (celui qui est du côté de la LED blanche), puis dans Thonny :
 
