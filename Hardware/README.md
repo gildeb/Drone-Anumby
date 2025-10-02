@@ -4,13 +4,13 @@
 
   Le drone avec la protection hélices:
 
-<img width="532" height="541" alt="Drone-Vue dessus" src="https://github.com/user-attachments/assets/af3a8d8a-2988-48fe-bf5d-4271bcb34d80" />
+<img width="425" height="432" alt="Drone-Vue dessus" src="https://github.com/user-attachments/assets/ab481ec9-02a3-4a0f-af4e-733c8bf0a358" />
 
   Fixation de la batterie sur la face inférieure avec de la bande Velcro:
 
-<img width="25" height="22" alt="Drone-Velcro batterie-2" src="https://github.com/user-attachments/assets/add89fa8-78f0-4007-98b2-30dc7a6f4a69" />
+<img width="482" height="425" alt="Drone-Velcro batterie-2" src="https://github.com/user-attachments/assets/e7782b42-4c07-458a-8526-264241ac710e" />
 
   Drone avec batterie en place et connectée (vue de dessous) :
 
-  <img width="25" height="25" alt="Drone-Vue dessous" src="https://github.com/user-attachments/assets/162e4fe3-e616-42d3-9494-954d63e81084" />
+<img width="480" height="476" alt="Drone-Vue dessous" src="https://github.com/user-attachments/assets/25600c2e-10e0-45eb-bd48-a2e3a28f6a0d" />
 
