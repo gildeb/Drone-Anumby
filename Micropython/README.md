@@ -28,4 +28,4 @@ Charger les scripts de ce répertoire sur la carte.
 
 # Commande ESPnow
 
-Pour tester l'ESPnow, on utilise la télécommande du Robot Service Jeunesse 2025. Commencer par déterminer l'adresse mac du drone avec le script _display_mac.py_, puis copier cette adresse dans le script telecommande_drone.py.
+Pour tester l'ESPnow, on utilise la télécommande du Robot Service Jeunesse 2025. Commencer par déterminer l'adresse mac du drone avec le script _display_mac.py_, puis copier cette adresse dans le script _telecommande_drone.py_.
