@@ -1,6 +1,6 @@
-## Developpement micropython pour le contrôleur de vol esp-drone
+# Developpement micropython pour le contrôleur de vol esp-drone
 
-# Pour flasher micropython sur l'ESP32S2 de la carte
+## Pour flasher micropython sur l'ESP32S2 de la carte
 
 Connecter la carte en USB _en maintenant enfoncé l'interrupteur BOOT_ (celui qui est du côté de la LED blanche), puis dans Thonny :
 
@@ -20,13 +20,13 @@ Fermer la fenêtre. L'interpréteur est lancé automatiquement:
 
 Charger les scripts de ce répertoire sur la carte.
 
-# Les scripts
+## Les scripts
 
 - _test_ADC_bat.py_ : affiche en continu (toutes les secondes), le voltage de la batterie (penser à connecter la batterie, CTRL-c pour interrompre))
 - _test_motors.py_  : fait tourner les moteurs les uns à la suite des autres pendant un seconde (penser à connecter la batterie et vérifier le sens de rotation des 4 hélices)
 - _test_MPU6050.py_ : initialise l'IMU et affiche en continu (3 fois par seconde) le pitch (tangage) et le roll (roulis) en degrés (CTRL-c pour interrompre)
 
-# Commande ESPnow
+## Commande ESPnow
 
 Pour tester l'ESPnow, on utilise la télécommande du Robot Service Jeunesse 2025. 
 
