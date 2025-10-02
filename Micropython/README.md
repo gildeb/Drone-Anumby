@@ -8,7 +8,7 @@ Connecter la carte en USB _en maintenant enfoncé l'interrupteur BOOT_ (celui qu
 
 Sélectionner ESP32, puis install :
 
-<img width="373" height="361" alt="Thonny 2" src="https://github.com/user-attachments/assets/867bc867-4c91-47b2-ab9b-603ed58174a9" />
+<img width="373" height="361" alt="Thonny 2" src="https://github.com/user-attachments/assets/02d0e6e0-54ba-42e4-a7ac-74f021b8c9c2" />
 
 Sélectionner les options d'installation ci-dessous, puis lancer l'installation:
 
