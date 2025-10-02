@@ -9,10 +9,10 @@ Connecter la carte en USB, puis dans Thonny :
 
 Sélectionner ESP32, puis install :
 
-<img width="564" height="545" alt="Thonny 2" src="https://github.com/user-attachments/assets/2dc58503-3798-4335-9059-d59de1c2320a" />
+<img width="376" height="363" alt="Thonny 2" src="https://github.com/user-attachments/assets/2dc58503-3798-4335-9059-d59de1c2320a" />
 
 
 Sélectionner les options d'installation ci-dessous, puis lancer l'installation:
 
-<img width="563" height="417" alt="Thonny 3" src="https://github.com/user-attachments/assets/9a25583c-abfe-4665-92d6-ffdf7d584649" />
+<img width="375" height="278" alt="Thonny 3" src="https://github.com/user-attachments/assets/9a25583c-abfe-4665-92d6-ffdf7d584649" />
 
